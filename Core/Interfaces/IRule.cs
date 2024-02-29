@@ -1,4 +1,4 @@
-﻿namespace Core
+﻿namespace Core.Interfaces
 {
     /// <summary>
     /// Represents a <c>Rule</c> which determines the fate of a <c>Cell</c> in the next <c>Generation</c>.

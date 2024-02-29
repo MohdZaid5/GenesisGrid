@@ -1,4 +1,4 @@
-﻿namespace Core
+﻿namespace Core.Interfaces
 {
     /// <summary>
     /// Represents a <c>Cell</c> in <b>Conway's Game Of Life</b>.

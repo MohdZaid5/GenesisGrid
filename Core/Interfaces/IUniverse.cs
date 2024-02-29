@@ -1,4 +1,4 @@
-﻿namespace Core
+﻿namespace Core.Interfaces
 {
     /// <summary>
     /// Represents an <c>Universe</c> where the next <c>Generation</c> of cells can be computed.
